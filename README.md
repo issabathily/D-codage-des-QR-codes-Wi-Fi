@@ -58,7 +58,7 @@ Tous les QR codes scannés sont enregistrés dans l'historique de l'application 
 
 Crédits :
 ---------
-- Développé par : [Votre nom]
+- Développé par : Issa Bathily
 - Basé sur : pyzbar (https://github.com/mchehab/pyzbar), Streamlit (https://streamlit.io/), Pillow (https://pillow.readthedocs.io/), pandas (https://pandas.pydata.org/)
 
 --------------------------------------------------------
